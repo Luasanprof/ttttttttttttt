@@ -11,12 +11,7 @@
 .swiper-slide img {
     width: auto;
     max-height: 100px;
-}
-.swiper-slide::placeholder {
-    background: url("../img/Lupa.svg") no-repeat;
-    background-position: 1em;
-    background-size: 30px;
-}
+} 
 
 .swiper-button-prev,
 .swiper-button-next {
