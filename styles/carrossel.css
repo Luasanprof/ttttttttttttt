@@ -9,7 +9,8 @@
 }
 
 .swiper-slide img {
-    width: 100%;
+    width: auto;
+    max-height: 100px;
 }
 
 .swiper-button-prev,
